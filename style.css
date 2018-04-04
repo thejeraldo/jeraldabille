@@ -1,0 +1,52 @@
+
+/* #343a40 BLACK*/
+/* #7ea4ce BLUE */
+
+p {
+  font-weight: lighter;
+}
+
+li {
+  font-weight: lighter;
+}
+
+.bg-primary {
+  background-color: #343a40 !important;
+}
+
+.text-primary {
+  color: #FF365D !important;
+}
+
+.list-icons .list-inline-item i:hover {
+  color: #FF365D !important;
+}
+
+.list-social-icons a {
+  color: #868e96 !important;
+}
+
+.list-social-icons a:hover {
+  color: #FF365D !important;
+}
+
+.btn-primary {
+  background-color: #FF365D;
+  border: 0;
+}
+
+.btn-primary:hover {
+  background-color: #343a40;
+  border: 0;
+}
+
+.btn-primary:active {
+  background-color: #343a40;
+  border: 0;
+}
+
+.btn-primary:focus {
+  background-color: #343a40;
+  border: 0;
+  box-shadow: 0;
+}
